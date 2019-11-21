@@ -1,2 +1,3 @@
 # AR-EHuman
-E-Human Anatomy using Augmented reality
+**E-Human Anatomy using Augmented reality**
+
